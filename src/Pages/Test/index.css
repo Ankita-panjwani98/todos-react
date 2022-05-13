@@ -1,0 +1,23 @@
+.todo-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 1000px;
+   
+}
+.sidebar-todo{
+    width: 10%;
+    background-color: rgb(14, 14, 82);
+    height: 100%;
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 10%;
+
+}
+.todos-display{
+    padding-top: 20px;
+    width: 90%;
+    background-color: rgb(164, 243, 243);
+    color: rgb(14, 14, 82);
+}

@@ -1,0 +1,8 @@
+.todo-display-container{
+    display: flex;
+    width: 500px;
+    /* border: 2px solid red; */
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
